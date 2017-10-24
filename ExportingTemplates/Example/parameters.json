@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vaults_Maa_Deploy_KeyVault_name": {
+            "value": null
+        },
+        "virtualNetworks_Deploy_ValVNet_name": {
+            "value": null
+        },
+        "components_Deploy_ValVmInsight_name": {
+            "value": null
+        },
+        "storageAccounts_deployvalvmstg1_name": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_name": {
+            "value": null
+        },
+        "networkInterfaces_Deploy_valVm1Nic_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Deploy_ValNsg_name": {
+            "value": null
+        },
+        "availabilitySets_DeployValidationVmAS_name": {
+            "value": null
+        },
+        "publicIPAddresses_Deploy_ValidationLBPip_name": {
+            "value": null
+        },
+        "subnets_valSubnet_name": {
+            "value": null
+        },
+        "securityRules_allowhttps_name": {
+            "value": null
+        },
+        "securityRules_default_allow_rdp_name": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id_1": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id_2": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id_3": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id_4": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id_5": {
+            "value": null
+        },
+        "loadBalancers_Deploy_ValidationLB_id_6": {
+            "value": null
+        }
+    }
+}
