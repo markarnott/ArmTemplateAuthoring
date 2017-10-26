@@ -1,6 +1,6 @@
 param (
     $TemplateFile = '1.SimpleTemplate.json',
-    $ResourceGroup = 'NetConfRaleigh'
+    $ResourceGroup = 'StupidArmTricks'
 )
 
 Import-Module AzureRM

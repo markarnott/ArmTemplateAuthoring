@@ -1,6 +1,6 @@
 param (
     $subscriptionId = "10185b92-8397-4ca8-9235-515c99af0782",
-    $ResourceGroup = 'NetConfRaleigh'
+    $ResourceGroup = 'StupidArmTricks'
 )
 
 #Install-Module AzureRM

@@ -1,6 +1,6 @@
 param (
     $TemplateFile = '3.LoopTemplate.json',
-    $ResourceGroup = 'NetConfRaleigh'
+    $ResourceGroup = 'StupidArmTricks'
 )
 
 Import-Module AzureRM
