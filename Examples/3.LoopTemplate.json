@@ -22,7 +22,8 @@
         "location": "[resourceGroup().location]",
         "copy": {
             "name": "nicLoop",
-            "count": "[parameters('numberOfInstances')]"
+            "count": "[parameters('numberOfInstances')]",
+            "mode": "Parallel"
         },
         "properties": {
             "ipConfigurations": [
